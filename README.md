@@ -1,0 +1,2 @@
+# FTPrivacyPolicy
+Privacy Policy
